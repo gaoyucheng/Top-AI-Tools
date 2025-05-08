@@ -53,6 +53,10 @@ Curated list of top AI Tools.
 | EchoWave | Online video editor | [🔗](https://echowave.io/)
 | The Birthday Poem | AI Birthday Poem Generator | [🔗](https://www.thebirthdaypoem.com/)
 | CreativePixel | AI creative studio: turning "impossible" to "done" in seconds. | [🔗](https://creativepixel.ai)
+| PixNova AI| All-in-one AI Image Generator & Editor | [🔗](https://pixnova.ai/) |
+| ColorifyAI| 100% Free AI Coloring Page Generator | [🔗](https://colorifyai.art/) |
+| AnimeGenius| #1 Anime AI Generator | [🔗](https://colorifyai.art/) |
+
 
 ## Conversational AI
 | Tools | Used for | Link |
